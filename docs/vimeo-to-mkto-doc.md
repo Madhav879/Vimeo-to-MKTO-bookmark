@@ -13,7 +13,7 @@ In many cases, videos hosted on Vimeo need to be embedded in MKTO landing pages.
  2. Once the Vimeo URLs are identified, the tool extracts the relevant components (the videoid and hash) and converts the URL into the format that can be used in MKTO LPs
  ``https://cdn.blueyonder.com/global/video.html?videoid={videoid}/{hash} ``
 
-
+<!---
 ## Tool [installation](https://drive.google.com/uc?export=download&id=1WjxT1bawv8BX_MIzwj9Q2kXwBANxWkwg) steps 📥
 1. Click [here](https://drive.google.com/uc?export=download&id=1WjxT1bawv8BX_MIzwj9Q2kXwBANxWkwg) to download the tool.
 2. Press ``Ctrl + Shift + O`` to open the Bookmark Manager in Chrome.
@@ -21,6 +21,9 @@ In many cases, videos hosted on Vimeo need to be embedded in MKTO landing pages.
 4. Select **Import Bookmarks** from the dropdown menu.
 5. Choose the bookmark file you just downloaded.
 6. A folder named "Imported" will be created in your bookmarks. Inside this folder, you will find the tool. You can change its location if desired.
+--->
+
+## Watch the Installation [Video ▶️](https://drive.google.com/file/d/14rEqr_LyhwSK6aqeFvY6Xg0Wl7UMxx_z/view?usp=sharing) 
 
 ## How to use it 🛠️
 
