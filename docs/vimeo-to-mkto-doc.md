@@ -30,10 +30,4 @@ In many cases, videos hosted on Vimeo need to be embedded in MKTO landing pages.
 1. Navigate to the Resource page that contains the Vimeo video you want to embed.
 2. Click on the **Vimeo to MKTO** bookmark.
 3. Copy the modified URL to your clipboard and use it in MKTO LPs.
-
-
-
-## Watch the Installation Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-
+ 
