@@ -1,7 +1,7 @@
-## [Vimeo to Marketo](https://drive.google.com/uc?export=download&id=1WjxT1bawv8BX_MIzwj9Q2kXwBANxWkwg) 📺
+## [Vimeo to Marketo](https://drive.google.com/uc?export=download&id=1ubVWXFsg1IgveHR3fCWDTjKLULGZEhVG) 📺
 
 ### Overview 🌟
-The Vimeo to Marketo is a tool designed to simplify the process of extracting and modifying Vimeo video URLs from a webpage. This tool is particularly useful for embedding Vimeo videos into Marketo landing pages by automatically reformatting the extracted URLs into the format required for Marketo LPs.
+The "Vimeo to Marketo" tool is designed to simplify the process of extracting and modifying Vimeo video URLs from the BY resources pages. This tool is particularly useful for fetching Vimeo video URLs from a page and formatting the extracted URLs into the format required for Marketo landing pages. Additionally, it extracts video links from Marketo landing pages and displays them along with the section names where each video belongs.
 
 ### Purpose 🎯
 In many cases, videos hosted on Vimeo need to be embedded in MKTO landing pages. To do this, the original Vimeo video URL, embedded on a resource page, needs to be extracted and altered into a specific URL structure. Manually performing this task can be time-consuming and prone to errors. The tool automates this process, ensuring efficiency and accuracy
